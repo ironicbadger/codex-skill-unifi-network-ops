@@ -1,0 +1,4 @@
+interface:
+  display_name: "UniFi Network"
+  short_description: "Operate and troubleshoot UniFi sites"
+  default_prompt: "Use $unifi-network-ops to inspect, troubleshoot, or safely change a UniFi Network deployment through the local API first and the local UI hostname for unsupported settings."
